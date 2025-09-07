@@ -1,0 +1,10 @@
+# FOLDERS #
+**/build
+**/dist
+**/node_modules
+
+# FILES #
+**/.env
+**/package-lock.json
+**/yarn.lock
+**/.DS_STORE
